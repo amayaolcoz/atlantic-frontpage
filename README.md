@@ -1,6 +1,6 @@
 # The Atlantic
 
-Construye una réplica del antiguo periódico norteamericano "The Atlantic".
+Construye una réplica del antiguo periódico norteamericano "The Atlantic by Amaya".
 
 <img src="./frontend/design.png">
 
